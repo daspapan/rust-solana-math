@@ -1,2 +1,2 @@
 # rust-solana-math
-Rust Solana 
+Rust Solana hello world

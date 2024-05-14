@@ -1,2 +1,4 @@
 **/*.lock
 node_modules/
+src/square/target*
+src/sum/target*
